@@ -82,13 +82,4 @@
         tools:layout_editor_absoluteX="241dp"
         tools:layout_editor_absoluteY="186dp" />
 
-    <com.google.android.gms.ads.AdView
-        android:id="@+id/adView2"
-        android:layout_width="0dp"
-        android:layout_height="92dp"
-        android:layout_marginBottom="8dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
-
 </android.support.constraint.ConstraintLayout>
